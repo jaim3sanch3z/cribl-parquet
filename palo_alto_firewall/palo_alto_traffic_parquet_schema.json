@@ -1,0 +1,28 @@
+{
+    "_raw": {
+        "optional": true,
+        "type": "STRING"
+    },
+    "_time": {
+        "optional": true,
+        "type": "INT",
+        "bitWidth": 32,
+        "signed": true
+    },
+    "host": {
+        "optional": true,
+        "type": "STRING"
+    },
+    "source": {
+        "optional": true,
+        "type": "STRING"
+    },
+    "sourcetype": {
+        "optional": true,
+        "type": "STRING"
+    },
+    "cribl_pipe": {
+        "optional": true,
+        "type": "STRING"
+    }
+}
