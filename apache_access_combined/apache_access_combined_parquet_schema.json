@@ -1,0 +1,46 @@
+{
+  "_raw": {
+    "optional": true,
+    "type": "STRING"
+  },
+  "_time": {
+    "optional": true,
+    "type": "INT32"
+  },
+  "bytes": {
+    "optional": true,
+    "type": "STRING"
+  },
+  "clientip": {
+    "optional": true,
+    "type": "STRING"
+  },
+  "host": {
+    "optional": true,
+    "type": "STRING"
+  },
+  "request": {
+    "optional": true,
+    "type": "STRING"
+  },
+  "source": {
+    "optional": true,
+    "type": "STRING"
+  },
+  "sourcetype": {
+    "optional": true,
+    "type": "STRING"
+  },
+  "status": {
+    "optional": true,
+    "type": "STRING"
+  },
+  "timestamp": {
+    "optional": true,
+    "type": "STRING"
+  },
+  "cribl_pipe": {
+    "optional": true,
+    "type": "STRING"
+  }
+}
